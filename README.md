@@ -20,3 +20,5 @@ I'm currently honing my skills in full-stack development and diving deeper into 
 
 ## 📫 Let's Connect
 Feel free to reach out or explore my repositories to see my work. I’m always open to collaborating on exciting projects and discussing new ideas.
+
+## 🏆 GitHub Stats
