@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm a driven software developer with a strong focu
 ## 🚀 Featured Projects
 Here are some of my notable projects that reflect my skills and interests:
 
-- **[HACK-HIVE (Python)](#):** Contributed to an IEEE mini-hackathon, focusing on innovative solutions.
-- **[Quark (CSS)](#):** A platform designed to connect students across departments for collaborative projects.
-- **[Google-New-Tab (HTML)](#):** A customized new tab page with a Google theme and integrated features.
-- **[Prayer-Schedule (HTML)](#):** A web-based agenda for the North Madras Marthoma Syrian Church, featuring an interactive schedule with togglable song lyrics and speaker details.
+- **[HACK-HIVE (Python)](https://github.com/Manickam717/HACK-HIVE):** Contributed to an IEEE mini-hackathon, focusing on innovative solutions.
+- **[Quark (CSS)](https://github.com/Manickam717/Quark):** A platform designed to connect students across departments for collaborative projects.
+- **[Google-New-Tab (HTML)](https://github.com/Manickam717/Google-New-Tab):** A customized new tab page with a Google theme and integrated features.
+- **[Prayer-Schedule (HTML)](https://github.com/Manickam717/Prayer-Schedule):** A web-based agenda for the North Madras Marthoma Syrian Church, featuring an interactive schedule with togglable song lyrics and speaker details.
 
 ## 🌱 What I'm Currently Working On
 I'm currently honing my skills in full-stack development and diving deeper into cybersecurity challenges. I actively participate in hackathons and contribute to open-source projects.
