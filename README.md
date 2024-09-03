@@ -16,7 +16,7 @@ Here are some of my notable projects that reflect my skills and interests:
 - **[Prayer-Schedule (HTML)](https://github.com/Manickam717/Prayer-Schedule):** A web-based agenda for the North Madras Marthoma Syrian Church, featuring an interactive schedule with togglable song lyrics and speaker details.
 
 ## 🌱 What I'm Currently Working On
-I'm currently honing my skills in full-stack development and diving deeper into cybersecurity challenges. I actively participate in hackathons and contribute to open-source projects.
+I'm currently honing my skills in full-stack development. I actively participate in hackathons and contribute to open-source projects.
 
 ## 📫 Let's Connect
 Feel free to reach out or explore my repositories to see my work. I’m always open to collaborating on exciting projects and discussing new ideas.
