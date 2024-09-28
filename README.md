@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a driven software developer with a strong focu
 ## 🚀 Featured Projects
 Here are some of my notable projects that reflect my skills and interests:
 
+- **[HACK-HIVE (Python)]([https://github.com/Manickam717/HACK-HIVE](https://github.com/HACKTHON-2024/Mentel-health-analysis-)):** A sentiment analysis model that detects signs of depression or anxiety from a Text, categorizing them into neutral, positive, and negative.
 - **[HACK-HIVE (Python)](https://github.com/Manickam717/HACK-HIVE):** Contributed to an IEEE mini-hackathon, focusing on innovative solutions.
 - **[Quark (CSS)](https://github.com/Manickam717/Quark):** A platform designed to connect students across departments for collaborative projects.
 - **[Google-New-Tab (HTML)](https://github.com/Manickam717/Google-New-Tab):** A customized new tab page with a Google theme and integrated features.
