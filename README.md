@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muthu Manickam M</h1>
 <h3 align="center">💻 Passionate Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manickam717&label=Profile%20views&color=0e75b6&style=flat" alt="manickam717" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manickam717" alt="manickam717" /></a> </p>
-
 - 🔭 I’m currently working on [Labour Field](https://github.com/HACKTHON-2024/Labour-Field)
 
 ## 🚀 Featured Projects
@@ -16,7 +12,7 @@ Here are some of my notable projects that reflect my skills and interests:
 - *[Prayer-Schedule](https://github.com/Manickam717/Prayer-Schedule):* A web-based agenda for the North Madras Marthoma Syrian Church, featuring an interactive schedule with togglable song lyrics and speaker details.
 - *[New-year-countdown-timer](https://github.com/Manickam717/New-year-countdown-timer):* A web-based agenda for the North Madras Marthoma Syrian Church, featuring an interactive schedule with togglable song lyrics and speaker details.
 
-- 📫 How to reach me **muthumanickam1577@gmail.com**
+##📫 How to reach me **muthumanickam1577@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
