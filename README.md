@@ -24,11 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manickam717&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;" />
 </div>
 
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manickam717&theme=radical" alt="GitHub Streak Stats" width="60%" />
-</div>
-
 ---
 
 ## 🚀 Featured Projects
