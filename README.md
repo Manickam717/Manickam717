@@ -47,7 +47,7 @@ Here are some of my notable projects that reflect my skills and interests:
   <a href="https://www.hackerrank.com/h221401049" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://leetcode.com/u/qjdsf5kats/" target="_blank" style="margin-right: 10px;">
+  <a href="https://leetcode.com/u/JaVa_CoDeR11/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
