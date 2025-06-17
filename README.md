@@ -8,7 +8,6 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on [Labour Field](https://github.com/HACKTHON-2024/Labour-Field), a platform connecting landowners and laborers for agricultural tasks.
 - 🌱 Continuously learner and Passionate Developer.
 - 🤝 Open to collaborating on innovative projects and discussing new ideas.
 - 📫 Reach me at **muthumanickam1577@gmail.com**
