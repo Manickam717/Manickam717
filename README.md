@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 About Me
-- 🌱 Continuously learner and Passionate Developer.
+- 🌱 Continuous learner and Passionate Developer.
 - 🤝 Open to collaborating on innovative projects and discussing new ideas.
 - 📫 Reach me at **muthumanickam1577@gmail.com**
 
