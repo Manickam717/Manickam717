@@ -14,17 +14,6 @@
 
 ---
 
-## 🏆 GitHub Stats
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=manickam717&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manickam717&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;" />
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 Here are some of my notable projects that reflect my skills and interests:
@@ -57,9 +46,6 @@ Here are some of my notable projects that reflect my skills and interests:
 
 <table align="center" style="width:100%; border-collapse: collapse;">
   <tr>
-    <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/><br />C</td>
-    <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/><br />C++</td>
-    <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br />Python</td>
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/><br />Java</td>
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><br />JavaScript</td>
   </tr>
@@ -72,7 +58,6 @@ Here are some of my notable projects that reflect my skills and interests:
   </tr>
   <tr>
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/><br />Git</td>
-    <td align="center" width="12%"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/><br />Google Cloud</td>
     <td align="center" width="12%"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/><br />Figma</td>
     <td align="center" width="12%"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/><br />Postman</td>
     <td align="center" width="12%"></td>
