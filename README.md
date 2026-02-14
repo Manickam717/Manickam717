@@ -47,11 +47,11 @@ Here are some of my notable projects that reflect my skills and interests:
 <table align="center" style="width:100%; border-collapse: collapse;">
   <tr>
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/><br />Java</td>
+    <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/><br />HTML5</td>
+    <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/><br />CSS3</td>
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/><br />JavaScript</td>
   </tr>
   <tr>
-    <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/><br />HTML5</td>
-    <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/><br />CSS3</td>
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/><br />MongoDB</td>
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/><br />MySQL</td>
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/><br />Node.js</td>
@@ -60,7 +60,6 @@ Here are some of my notable projects that reflect my skills and interests:
     <td align="center" width="12%"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/><br />Git</td>
     <td align="center" width="12%"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/><br />Figma</td>
     <td align="center" width="12%"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/><br />Postman</td>
-    <td align="center" width="12%"></td>
   </tr>
 </table>
 
